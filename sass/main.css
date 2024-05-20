@@ -278,6 +278,26 @@ button.dark-btn:hover {
   color: #000000;
 }
 
+button.red {
+  padding: 10px;
+}
+
+button.blue {
+  padding: 10px;
+  color: black;
+  background-color: aquamarine;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+button.blue:hover {
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  font-weight: bold;
+  font-size: 32px;
+}
+
 .card {
   display: flex;
   flex-direction: column;
